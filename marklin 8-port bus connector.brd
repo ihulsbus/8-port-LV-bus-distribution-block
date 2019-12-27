@@ -157,9 +157,10 @@
 <board>
 <fusionsync huburn="a.cGVyc29uYWw6dWUyYzU2MzVl" projecturn="a.cGVyc29uYWw6dWUyYzU2MzVlIzIwMTkxMjI3MjUwMjE2NzUx" f3durn="urn:adsk.wipprod:dm.lineage:j-ABF5PAS0-7iOylFp5VaQ" pcbguid="f28d1eac-d0a1-4b11-9191-b0cea4bb7c9e" lastpulledtime="" lastsyncedchangeguid="186b9b84-dc52-20d2-0499-ff148f58c539"/>
 <plain>
-<text x="16.51" y="15.24" size="1.778" layer="21">Märklin Digital 8 port bus distributor block
+<text x="16.51" y="12.7" size="1.778" layer="21">Märklin Digital 8 port bus distributor block
 Author: ihulsbus
-license: MIT</text>
+license: MIT
+version: 0.1</text>
 <text x="17.78" y="36.83" size="1.778" layer="21" rot="SR180">R</text>
 <text x="33.02" y="36.83" size="1.778" layer="21" rot="SR180">R</text>
 <text x="48.26" y="36.83" size="1.778" layer="21" rot="SR180">R</text>
