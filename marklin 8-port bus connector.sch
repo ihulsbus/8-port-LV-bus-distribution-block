@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="9.3.1">
+<eagle version="9.5.2">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.01" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -365,16 +365,56 @@ You are welcome to use this library for commercial purposes. For attribution, we
 </class>
 </classes>
 <parts>
-<part name="J1" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A"/>
-<part name="J2" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A"/>
-<part name="J3" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A"/>
-<part name="J4" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A"/>
-<part name="J5" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A"/>
-<part name="J6" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A"/>
-<part name="J7" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A"/>
-<part name="J8" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A"/>
-<part name="J9" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A"/>
-<part name="J10" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A"/>
+<part name="J1" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A">
+<attribute name="MF" value="WURTH ELEKTRONIK"/>
+<attribute name="MPN" value="691111710002"/>
+<attribute name="OC_NEWARK" value="19P1416"/>
+</part>
+<part name="J2" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A">
+<attribute name="MF" value="WURTH ELEKTRONIK"/>
+<attribute name="MPN" value="691111710002"/>
+<attribute name="OC_NEWARK" value="19P1416"/>
+</part>
+<part name="J3" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A">
+<attribute name="MF" value="WURTH ELEKTRONIK"/>
+<attribute name="MPN" value="691111710002"/>
+<attribute name="OC_NEWARK" value="19P1416"/>
+</part>
+<part name="J4" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A">
+<attribute name="MF" value="WURTH ELEKTRONIK"/>
+<attribute name="MPN" value="691111710002"/>
+<attribute name="OC_NEWARK" value="19P1416"/>
+</part>
+<part name="J5" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A">
+<attribute name="MF" value="WURTH ELEKTRONIK"/>
+<attribute name="MPN" value="691111710002"/>
+<attribute name="OC_NEWARK" value="19P1416"/>
+</part>
+<part name="J6" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A">
+<attribute name="MF" value="WURTH ELEKTRONIK"/>
+<attribute name="MPN" value="691111710002"/>
+<attribute name="OC_NEWARK" value="19P1416"/>
+</part>
+<part name="J7" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A">
+<attribute name="MF" value="WURTH ELEKTRONIK"/>
+<attribute name="MPN" value="691111710002"/>
+<attribute name="OC_NEWARK" value="19P1416"/>
+</part>
+<part name="J8" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A">
+<attribute name="MF" value="WURTH ELEKTRONIK"/>
+<attribute name="MPN" value="691111710002"/>
+<attribute name="OC_NEWARK" value="19P1416"/>
+</part>
+<part name="J9" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A">
+<attribute name="MF" value="WURTH ELEKTRONIK"/>
+<attribute name="MPN" value="691111710002"/>
+<attribute name="OC_NEWARK" value="19P1416"/>
+</part>
+<part name="J10" library="Wurth_Elektronik_Electromechanic_Terminal_Blocks_Connectors_rev19d" library_urn="urn:adsk.eagle:library:7556913" deviceset="691111710002" device="" package3d_urn="urn:adsk.eagle:package:7558744/5" value="34V 5A">
+<attribute name="MF" value="WURTH ELEKTRONIK"/>
+<attribute name="MPN" value="691111710002"/>
+<attribute name="OC_NEWARK" value="19P1416"/>
+</part>
 <part name="MÄRKLIN-BUS-CONNECTOR" library="SparkFun-Aesthetics" library_urn="urn:adsk.eagle:library:507" deviceset="FRAME-A4L" device=""/>
 </parts>
 <sheets>
@@ -385,42 +425,72 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <instance part="J1" gate="G$1" x="132.08" y="134.62" smashed="yes" rot="R90">
 <attribute name="NAME" x="131.842" y="135.89" size="1.778" layer="95" rot="R90"/>
 <attribute name="VALUE" x="134.62" y="135.89" size="1.778" layer="96" rot="R90"/>
+<attribute name="OC_NEWARK" x="132.08" y="134.62" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="132.08" y="134.62" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="132.08" y="134.62" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="J2" gate="G$1" x="134.62" y="73.66" smashed="yes" rot="R270">
 <attribute name="NAME" x="134.858" y="72.39" size="1.778" layer="95" rot="R270"/>
 <attribute name="VALUE" x="132.08" y="72.39" size="1.778" layer="96" rot="R270"/>
+<attribute name="OC_NEWARK" x="134.62" y="73.66" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="134.62" y="73.66" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="134.62" y="73.66" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="J3" gate="G$1" x="121.92" y="91.44" smashed="yes" rot="R180">
 <attribute name="NAME" x="120.65" y="91.202" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="120.65" y="93.98" size="1.778" layer="96" rot="R180"/>
+<attribute name="OC_NEWARK" x="121.92" y="91.44" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="121.92" y="91.44" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="121.92" y="91.44" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="J4" gate="G$1" x="121.92" y="101.6" smashed="yes" rot="R180">
 <attribute name="NAME" x="120.65" y="101.362" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="120.65" y="104.14" size="1.778" layer="96" rot="R180"/>
+<attribute name="OC_NEWARK" x="121.92" y="101.6" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="121.92" y="101.6" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="121.92" y="101.6" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="J5" gate="G$1" x="121.92" y="111.76" smashed="yes" rot="R180">
 <attribute name="NAME" x="120.65" y="111.522" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="120.65" y="114.3" size="1.778" layer="96" rot="R180"/>
+<attribute name="OC_NEWARK" x="121.92" y="111.76" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="121.92" y="111.76" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="121.92" y="111.76" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="J6" gate="G$1" x="121.92" y="121.92" smashed="yes" rot="R180">
 <attribute name="NAME" x="120.65" y="121.682" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="120.65" y="124.46" size="1.778" layer="96" rot="R180"/>
+<attribute name="OC_NEWARK" x="121.92" y="121.92" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="121.92" y="121.92" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="121.92" y="121.92" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="J7" gate="G$1" x="144.78" y="119.38" smashed="yes">
 <attribute name="NAME" x="146.05" y="119.618" size="1.778" layer="95"/>
 <attribute name="VALUE" x="146.05" y="116.84" size="1.778" layer="96"/>
+<attribute name="OC_NEWARK" x="144.78" y="119.38" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="144.78" y="119.38" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="144.78" y="119.38" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="J8" gate="G$1" x="144.78" y="109.22" smashed="yes">
 <attribute name="NAME" x="146.05" y="109.458" size="1.778" layer="95"/>
 <attribute name="VALUE" x="146.05" y="106.68" size="1.778" layer="96"/>
+<attribute name="OC_NEWARK" x="144.78" y="109.22" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="144.78" y="109.22" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="144.78" y="109.22" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="J9" gate="G$1" x="144.78" y="99.06" smashed="yes">
 <attribute name="NAME" x="146.05" y="99.298" size="1.778" layer="95"/>
 <attribute name="VALUE" x="146.05" y="96.52" size="1.778" layer="96"/>
+<attribute name="OC_NEWARK" x="144.78" y="99.06" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="144.78" y="99.06" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="144.78" y="99.06" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="J10" gate="G$1" x="144.78" y="88.9" smashed="yes">
 <attribute name="NAME" x="146.05" y="89.138" size="1.778" layer="95"/>
 <attribute name="VALUE" x="146.05" y="86.36" size="1.778" layer="96"/>
+<attribute name="OC_NEWARK" x="144.78" y="88.9" size="1.778" layer="96" display="off"/>
+<attribute name="MF" x="144.78" y="88.9" size="1.778" layer="96" display="off"/>
+<attribute name="MPN" x="144.78" y="88.9" size="1.778" layer="96" display="off"/>
 </instance>
 <instance part="MÄRKLIN-BUS-CONNECTOR" gate="G$1" x="0" y="0" smashed="yes">
 <attribute name="DRAWING_NAME" x="181.61" y="11.43" size="2.54" layer="94" font="vector"/>
